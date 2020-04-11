@@ -1,0 +1,6 @@
+phone
+
+
+bluetooth
+
+wifi
